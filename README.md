@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ch. Malvika Reddy</h1>
 <h3 align="center">A Tech-Geek developing applications that changes lives.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw3kdkl60LDs4ZdqjEE94sK5&ust=1678723463262000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMiR9Mri1v0CFQAAAAAdAAAAABAb">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malvika004&label=Profile%20views&color=0e75b6&style=flat" alt="malvika004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malvika004" alt="malvika004" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Web Development**
 
