@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ch-malvika-reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ch-malvika-reddy/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/itzz_malvika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itzz_malvika" height="30" width="40" /></a>
-
 <a href="https://discord.gg/Malvika_004#2142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Malvika_004#2142" height="30" width="40" /></a>
 </p>
 
